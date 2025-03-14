@@ -1,4 +1,4 @@
-<img width="710" alt="UNION LOGO_update2024_wht" src="https://github.com/user-attachments/assets/d4fabd30-d4fb-41a9-8509-ffe282e27945" />
+![union-header](https://github.com/user-attachments/assets/bc7227d1-2981-4894-bdcb-f8a465448724)
 
 # The Union Testnet-9 is live
 
